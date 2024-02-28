@@ -1,7 +1,7 @@
 ### 用于解析b超数据并将数据以json格式发送给服务端
 
-1、安装项目依赖 pip install -r requirements.txt
-2、启动前先运行init_structure.py生成文件结构
+1、安装项目依赖 pip install -r requirements.txt \n
+2、启动前先运行init_structure.py生成文件结构 \n
 3、生成成功后运行main.py启动程序
 
 ### 关于配置文件
